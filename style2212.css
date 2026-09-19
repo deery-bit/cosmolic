@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+body{
+background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC_hOIIjWEuplaa8BB7D8XHyveJFLzf1diSAI8fc7qu4KMJSiZSE9jQ8M&s=10');
+color:white;
+font-family:Audiowide;
+}
+form{
+background-image:url("місяць.png");
+background-repeat:no-repeat;
+height:260px;
+font-size:25px;
+}
+.earth{
+width:500px;
+height:500px;
+}
+h1{
+font-size:150px;
+}
+h2{
+font-size:45px;
+}
