@@ -5,7 +5,6 @@ color:white;
 font-family:Audiowide;
 }
 form{
-background-image:url("місяць.png");
 background-repeat:no-repeat;
 height:260px;
 font-size:25px;
@@ -19,4 +18,59 @@ font-size:150px;
 }
 h2{
 font-size:45px;
+}
+marquee{
+background-color:white;
+color:black;
+height:25px;
+border:dotted 5px black;
+}
+ul{
+background-color:white;
+color:black;
+width:200px;
+height:100px;
+text-align:center;
+display:inline-block;
+text-decoration:none;
+}
+.menu li{
+display:inline-block;
+position:relative;
+color:black;
+width:250px;
+height:70px;
+text-align:center;
+text-decoration:none;
+}
+.submenu{
+position:absolute;
+top:100%;
+left:-25%;
+}
+.submenu li{
+width:500px;
+text-align:center;
+background-color:white;
+color:black;
+height:70px;
+display:inline-block;
+border:dotted 5px black;
+}
+.submenu{
+display:none;
+}
+.menu li:hover > .submenu{
+display:block;
+}
+div{
+background:white;
+border:dotted 5px black;
+}
+.sun{
+width:250px;
+height:250px;
+}
+.text{
+color:black;
 }
