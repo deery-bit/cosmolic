@@ -74,3 +74,16 @@ height:250px;
 .text{
 color:black;
 }
+.venus{
+width:250px;
+height:200px;
+}
+.blackhole{
+width:1500px;
+height:750px;
+}
+.hi{
+background-image:url("https://science.nasa.gov/wp-content/uploads/2020/10/sub-warped-gaia-000000-14x5-1.webp");
+height:500px;
+width:1300px;
+}
