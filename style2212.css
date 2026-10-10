@@ -78,12 +78,18 @@ color:black;
 width:250px;
 height:200px;
 }
-.blackhole{
-width:1500px;
-height:750px;
+.saturn{
+width:200px;
+height:200px;
 }
-.hi{
-background-image:url("https://science.nasa.gov/wp-content/uploads/2020/10/sub-warped-gaia-000000-14x5-1.webp");
+.galaxy{
+width:1250px;
 height:500px;
+animation: mymove 25s infinite;
+}
+@keyframes mymove{
+0%{deg:0}
+100%{deg:360;}
+}0px;
 width:1300px;
 }
